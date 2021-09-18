@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Cry Wolf
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/CryWolf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://i.pinimg.com/originals/2c/3c/09/2c3c09a34b6547d81a242295d064b282.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：Cry Wolf <br>
+作者：Charlie Adhara <br/>
+评分：5/5 <br/>
 
-### Markdown
+重要前情回顾：
+A. 第三部中库博和Oliver遇到了疯狂的UCLA生物教授，她试图找出狼人的证据并公之于众，然而，教授自己也陷入了凶手狼人的追杀，她目睹老公被杀死，自己也被狼人绑架，最后库博找到了教授并把她救了出来，但库博被随即赶来的凶手追杀，教授在混战中逃走了。教授知道了狼人的存在，尽管狼人机构一直想要找回教授，但教授一直下落不明。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+B. 库博在旧公寓里一直隐约感到有人在偷拍自己。
 
-```markdown
-Syntax highlighted code block
+C. 第四部中库博接受了AQ(alpha商)测试，得到了不可能的100分，是拥有最高狼性的生物，狼人治疗所里的狼人科学家一直致力于找到提高AQ的手段，库博成为了他下手的目标。尽管最后科学家被识破阴谋，但库博却觉得那份满分报告是bullsh*t，直接扔掉了。
 
-# Header 1
-## Header 2
-### Header 3
+D. 第三部中Oliver前男友Eli第一次登场，Cooper一开始妒火中烧，但很快就喜欢上了这个前男友，然而Oliver说看似活泼毒舌的Eli其实有不为人知的过去。
 
-- Bulleted
-- List
+E. 第二步部后，库博的家人知道了狼人的真相，也喜欢上了库博的狼人男友(现未婚夫)
 
-1. Numbered
-2. List
+库博和Oliver终于订婚并买下了房子，在经过妥协后两人搬到了华盛顿郊区的一栋非豪宅别墅。然而库博一想到婚礼的筹备就头疼，他还未Oliver戴不了婚戒烦恼(狼人变身会撑破婚戒)
 
-**Bold** and _Italic_ and `Code` text
+UCLA教授突然自首，并要求回见库博。她告诉库博他已经陷入危险，并提出条件作为交换，库博拒绝了并不相信她的话。
 
-[Link](url) and ![Image](src)
-```
+一个周末库博父亲、哥哥、嫂子、侄女拜访库博，把库博强行打扮成一朵向日葵拉到公园给侄女玩，库博和哥哥经过狼展区时发现一直狼不同寻常，他们跟着那只狼越过了栏杆来到幕后。这只狼是Eli，他告诉库博自己被匿名勒索，希望库博能查出凶手。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+库博先后锁定了几个嫌疑人，但几个嫌疑人却接连被谋杀，更可怕的是，几个嫌疑人都是狼人，但他们死的时候却是半人半狼的形态。这在历史上是绝不可能的事情。这几具狼人的尸体似乎应征了狼族”血色月亮”的传说。在传说中，血色月亮是最高力量的象征，它会来惩罚不忠的狼人。
 
-### Jekyll Themes
+这件事和Eli的特殊能力联系到了一起，原来，Eli能够随意切换狼人形态，如果人的状态是0，狼的状态是1，其他狼人只能要么是1要么是0，但Eli能在[0, 1]这个区间里自由停留，所以Eli小时候作为孤儿这个能力就被一个狼群挖掘并被带走。Eli被强迫做了很多非法的勾当，最后是Oliver出现救了Eli，两人也因此开始交往，之后就分手了。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/CryWolf/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+在调查凶杀案的过程中，库博遇到了他的前男友/前上司/前搭档Neil。Neil教会了Cooper很多工作和床上的技巧，但之后两人就分开了。Neil想要重新操纵库博，但库博现在有了老公哪会这么轻易被影响(参考第一部Jefferson)。
 
-### Support or Contact
+Neil突然要库博和他见面，但库博到场后却找不到他，而且被打晕扔进了鳄鱼池。幸好Eli及时出现救下了库博，但案件的重要证据却不见了。为了调查一个嫌疑人，库博和Oliver来到一场宴会，但这场宴会中嫌疑人突然被杀死，又是半人半狼的形态，狼人联盟首领Cola出现处理现场。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cola找到了重要线索，她带着库博和Oliver闯入Neil的房子。众人震惊发现里面全部是库博的资料，库博的生活照甚至贴满了Neil的墙壁。原来，Neil早就知道了狼人的真相，同时不断调查库博，他拿到了库博再第四部狼人治疗所的满分AQ测试成绩单，坚信库博就是”血色月亮”的人形化身。
+
+库博觉得AQ测试和血色月亮传说都是一派胡言，但Cola却直言不讳：库博拥有超乎常人的演变能力，几乎能迅速适应任何新的环境和体系，而他还拥有非凡的感化力，第一部中狼人联盟排出他们最好的特工，北美最有权势的狼人家族继承人Oliver Park去调查库博，但结局却是Oliver”像忠犬一样“和库博坠入了爱河。现在人类、狼人、独立军三方势力都知道了库博特殊的能力，他们会为了争夺库博做出惨烈厮杀。
+
+在回家的路上，库博发现车里放太阳镜的地方有只袜子，打开一看是只金婚戒。Oliver策划的惊喜求婚就这样失败了。库博戴上了婚戒，Oliver给自己准备了条很长的金项链，说即使变成狼也不会断。两人车震。
+
+完事后，库博接到Eli电话，说自己被绑架了，Neil也被绑架和他在一起。库博和Oliver应歹徒要求来到指定地点，却被迷晕失去了意识。真正的凶手是动物园园长Ryan，他发现了狼人的秘密，并希望从中牟取暴利。而且他有能阻止狼人变身的药剂，之前那些半人半狼的尸体就是他的杰作。Oliver和Eli都被注射了药剂暂时失去了狼人能力。
+
+Ryan和Neil联手实行Ryan的计划，但过于理想主义的Neil一直以为Ryan的本意不是为了牟取暴利，Neil之前一直想要告诉库博真相，但一直没有成功，后面Neil就被Ryan灭口了。Ryan想要杀死被绑架的几个人，但千钧一发之际，同被绑架的Eli妹妹恢复了狼人变身能力反杀成功。在清理现场时，库博意识到了Eli一直是孤身一人，他邀请他加入他和Oliver的家(pack)
+
+库博突然串起了所有线索。他重新见了UCLA生物教授，指出所有这一切都是她的阴谋。她在逃亡期间联系到了Ryan和Neil为他们提供了线索并给Ryan阻止狼人变身的药剂，之后自首并故意警告库博，这样子库博就会被逼和教授合作，教授就能提出保释的条件。被揭穿后教授恼羞成怒，告诉库博血色月亮的传说和库博是血色月亮的消息已经传出去了，库博接下来面对的必定是一场腥风血雨。库博离开了。
+
+在家里，库博告诉Oliver他不想要婚礼了，想要立刻结婚。两人火速去民政厅登记并邀请了少数亲朋好友在家里举办简单的典礼，甚至连Oliver远在加拿大的亲戚都视频连线。在典礼上，库博对Oliver说自己知道接下来的日子必定还是腥风血雨，但只要两人现在还在一起就够了。有了Oliver，库博就有了面对世界的勇气。大坏狼系列5部的爱情长跑就在两人的婚礼上结束了。
+
+然而故事并没有结束…血色月亮的传说并没有得到一个完满的结尾，Eli接受了Oliver的委托前往第四部的狼人治疗所进行管理。作者的下一系列长文中，Eli将作为主要人物登场，期待库博和Oliver这对最可爱的人狼夫夫能常常客串！！
+
+然而故事并没有结束，库博仍然处在"血色月亮"的危险中，三方势力的争夺才刚刚开始。不过库博的戏份已经基本结束了，配角Eli接受了Oliver的委托前往第四部的狼人治疗所进行管理，他拥有一个独一无二的特殊能力，预计也将成为一个巨大的伏笔(详细看图片最后)。作者的下一系列长文中，Eli将作为主要人物登场，期待库博和Oliver这对最可爱的人狼夫夫能常常客串！！
